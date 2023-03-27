@@ -1,5 +1,5 @@
 # Username and Password Wordpress:
-root - zRvuLA6aO^8US7diyX
+root - Rg2FOLOOfjvFiTGEZ*
 
 # Docker compose file for setting up Wordpress
 Docker compose file including uploads.ini file for seamless Wordpress installation.
